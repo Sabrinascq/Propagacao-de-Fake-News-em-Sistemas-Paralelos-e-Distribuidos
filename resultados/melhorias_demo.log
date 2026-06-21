@@ -1,0 +1,40 @@
+=== MODELO ESTENDIDO COM 6 MELHORIAS ===
+Melhorias: inventor, probabilidades, influenciadores, bots, múltiplas fake news e resistência
+Fake news simultâneas: 3
+Probabilidades por fake: {1: 0.8, 2: 0.68, 3: 0.56}
+Influenciadores: 20 | Bots: 12
+
+Geração 000 | Ignorantes:   3489 | Espalhadores:    108 | Inativos:      0 | Inventores:    3 | F1: 40 ativos | F2: 33 ativos | F3: 38 ativos
+Geração 001 | Ignorantes:   3489 | Espalhadores:      1 | Inativos:    107 | Inventores:    3 | F1: 1 ativos | F2: 2 ativos | F3: 1 ativos
+Geração 002 | Ignorantes:   3489 | Espalhadores:      1 | Inativos:    107 | Inventores:    3 | F1: 1 ativos | F2: 2 ativos | F3: 1 ativos
+Geração 003 | Ignorantes:   3489 | Espalhadores:      1 | Inativos:    107 | Inventores:    3 | F1: 1 ativos | F2: 2 ativos | F3: 1 ativos
+Geração 004 | Ignorantes:   3489 | Espalhadores:      1 | Inativos:    107 | Inventores:    3 | F1: 1 ativos | F2: 2 ativos | F3: 1 ativos
+Geração 005 | Ignorantes:   3489 | Espalhadores:      1 | Inativos:    107 | Inventores:    3 | F1: 1 ativos | F2: 2 ativos | F3: 1 ativos
+Geração 006 | Ignorantes:   3489 | Espalhadores:      1 | Inativos:    107 | Inventores:    3 | F1: 1 ativos | F2: 2 ativos | F3: 1 ativos
+Geração 007 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 008 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 009 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 010 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 011 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 012 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 013 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 014 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 015 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 016 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 017 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 018 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 019 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 020 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 021 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 022 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 023 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 024 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 025 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 026 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 027 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 028 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 029 | Ignorantes:   3489 | Espalhadores:      0 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 1 ativos
+Geração 030 | Ignorantes:   3488 | Espalhadores:      1 | Inativos:    108 | Inventores:    3 | F1: 1 ativos | F2: 1 ativos | F3: 2 ativos
+
+Tempo total: 0.281809s
+Histórico salvo em: resultados/melhorias_demo.csv
