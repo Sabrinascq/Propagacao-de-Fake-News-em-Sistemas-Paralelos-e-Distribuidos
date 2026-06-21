@@ -1,0 +1,3 @@
+# O projeto principal usa apenas biblioteca padrão do Python.
+# Opcional para gerar gráficos:
+matplotlib>=3.8
